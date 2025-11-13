@@ -1,25 +1,99 @@
-# Vinupriya Vinod Kumar - Data Science Portfolio
+# 👋 Hi, I'm Vinupriya  
+### Data Science & Machine Learning Enthusiast
 
-Welcome to my data science portfolio! Here you'll find projects that showcase my skills and learning journey in data analytics, transformation, and visualization.
-
-## Projects
-
-- [DBT + DuckDB Analytics Project](./dbt-duckdb-project)  
-  A beginner-friendly data transformation project using dbt with DuckDB. Demonstrates core data modeling, SQL transformations, and managing data pipelines.
-
-More projects coming soon!
+Welcome to my portfolio!  
+This repository showcases my work across **data analytics**, **data engineering**, **machine learning**, and **automation**.  
+It includes both **academic projects** and **self-driven skill development projects**.
 
 ---
 
-## About Me
+## 🧰 Tech Stack
 
-I am a budding data enthusiast with a keen interest in building data pipelines, transforming raw data, and creating actionable insights. This portfolio reflects my growth and hands-on experience with tools like dbt, SQL, Python, and DuckDB.
+**Languages:**  
+Python, SQL
 
-Feel free to explore and connect!
+**Libraries & Frameworks:**  
+pandas, numpy, scikit-learn, matplotlib, seaborn  
+dbt, DuckDB, Jupyter Notebook
+
+**Tools & Platforms:**  
+Playwright, Google Sheets API, OpenAI GPT-4  
+Git, GitHub, dotenv
+
+**Domains:**  
+Data Engineering, Automation, Machine Learning, EDA, Statistical Analysis
 
 ---
 
-## Contact
+# 🎓 Academic Projects
 
-- GitHub: [github.com/vinupriyavinodkumar](https://github.com/vinupriyavinodkumar)
-- LinkedIn: [linkedin.com/in/vinupriyavinodkumar](https://linkedin.com/in/vinupriyavinodkumar)
+### **1. Glioma Grading & Gene Mutation Analysis using Machine Learning**  
+**Tech:** Python, scikit-learn, pandas, matplotlib  
+**Highlights:**  
+- Built ML models (SVM, AdaBoost, Random Forest, Ensemble) for **glioma grade prediction**  
+- Performed mutation + clinical feature analysis  
+- Analyzed mutation prevalence across **race** and **gender**  
+- Evaluated accuracy, precision, recall, F1-score  
+
+🔗 **Repository:**  
+https://github.com/vinupriyavinodkumar/Glioma-Grading-and-Evaluation-using-Machine-Learning
+
+---
+
+# 🛠 Skill Development Projects  
+
+### **1. Automated Product Categorisation for E-commerce (Playwright + GPT-4)**  
+**Tech:** Python, Playwright, asyncio, Google Sheets API, GPT-4  
+**Highlights:**  
+- Automated extraction of metadata from live e-commerce websites  
+- Handled pop-ups, cookies, modals, and language selectors using Playwright  
+- Rule-based & GPT-4 powered **product categorisation**  
+- Updated results back to Google Sheets with retry logic  
+- Tracked timeout/SSL/GPT errors + token usage + API cost  
+
+🔗 **Repository:**  
+*(Add your repo link here once you upload it)*
+
+---
+
+### **2. Data Transformation & Analytics using DBT + DuckDB**  
+**Tech:** dbt, DuckDB, SQL  
+**Highlights:**  
+- Built SQL transformation models using dbt  
+- Organized raw → intermediate → analytics layers  
+- Performed downstream analysis in DuckDB  
+- Demonstrated data pipeline building & modeling skills  
+
+🔗 **Repository:**  
+https://github.com/vinupriyavinodkumar/my-portfolio/tree/main/dbt-duckdb
+
+---
+
+### **3. More Projects Coming Soon!**  
+I’m actively adding new projects in:  
+- Machine Learning (Classification, Regression, NLP, Time-Series)  
+- Data Engineering Automations  
+- SQL Case Studies  
+- EDA & Visualization  
+- API-driven workflows  
+- Web scraping & automation  
+
+---
+
+## 📌 About Me
+
+I am a passionate data enthusiast who enjoys building data pipelines, transforming raw data, and extracting meaningful insights.  
+My work spans automation, ML experimentation, and modern data stack tools like dbt, DuckDB, and Python.
+
+This portfolio represents my learning journey and continuous skill development.
+
+---
+
+## 📬 Contact
+
+- **GitHub:** https://github.com/vinupriyavinodkumar  
+- **LinkedIn:** https://www.linkedin.com/in/vinupriyavinodkumar/  
+
+---
+
+⭐ *Thanks for visiting my portfolio! Feel free to explore my projects or connect with me for collaboration or opportunities.*
