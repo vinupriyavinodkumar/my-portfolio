@@ -60,7 +60,7 @@ Automated system that visits e-commerce websites, extracts metadata, and classif
 - Tracks errors, tokens used, and API cost  
 
 🔗 **Repository:**  
-*(Add your repo link here once you upload it)*
+https://github.com/vinupriyavinodkumar/website-product-category-classifier
 
 ---
 
