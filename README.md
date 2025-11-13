@@ -65,7 +65,7 @@ https://github.com/vinupriyavinodkumar/Glioma-Grading-and-Evaluation-using-Machi
 - Demonstrated data pipeline building & modeling skills  
 
 🔗 **Repository:**  
-https://github.com/vinupriyavinodkumar/my-portfolio/tree/main/dbt-duckdb
+https://github.com/vinupriyavinodkumar/my-portfolio/tree/project/dbt-analytics-warehouse
 
 ---
 
