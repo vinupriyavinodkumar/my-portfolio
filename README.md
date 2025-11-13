@@ -42,14 +42,22 @@ https://github.com/vinupriyavinodkumar/Glioma-Grading-and-Evaluation-using-Machi
 
 # 🛠 Skill Development Projects  
 
-### **1. Automated Product Categorisation for E-commerce (Playwright + GPT-4)**  
+### **1. Website Product Category Classification (Playwright + GPT-4)**  
 **Tech:** Python, Playwright, asyncio, Google Sheets API, GPT-4  
+**Description:**  
+Automated system that visits e-commerce websites, extracts metadata, and classifies each website into one of four product categories:  
+- Clothing + Shoes (9)  
+- Clothing (8)  
+- Shoes (7)  
+- Lingerie (6)
+
 **Highlights:**  
-- Automated extraction of metadata from live e-commerce websites  
-- Handled pop-ups, cookies, modals, and language selectors using Playwright  
-- Rule-based & GPT-4 powered **product categorisation**  
-- Updated results back to Google Sheets with retry logic  
-- Tracked timeout/SSL/GPT errors + token usage + API cost  
+- Uses Playwright to load websites and bypass pop-ups, language selectors, cookie banners  
+- Extracts metadata (meta tags, titles, headers, category links)  
+- English websites use rule-based classification  
+- Non-English websites use GPT-4 classification  
+- Updates results back to Google Sheets  
+- Tracks errors, tokens used, and API cost  
 
 🔗 **Repository:**  
 *(Add your repo link here once you upload it)*
